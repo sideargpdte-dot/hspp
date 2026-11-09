@@ -1,0 +1,52 @@
+{
+  "flags": 32768,
+  "components": [
+    {
+      "type": 17,
+      "components": [
+        {
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://media.discordapp.net/attachments/1437532141947715684/1516869274202017792/larp2_6.png?ex=6a343619&is=6a32e499&hm=6f4d100e90de932cf0cef6aa5c9747ad13a801f1ecaf66ebcf4aed3e236f2004&=&format=webp&quality=lossless&width=1860&height=561"
+              }
+            }
+          ]
+        },
+        {
+          "type": 14
+        },
+        {
+          "type": 9,
+          "components": [
+            {
+              "type": 10,
+              "content": "## <:evento:1516817280313593856> ¡Bienvenido {usuario} a AMBA Reborn RolePlay! <:AMBA:1492590243877228704>\n> \n> - Antes de comenzar date una vuelta por nuestro canal de <#1491520891207811082> Una vez verificado podrás comenzar a disfrutar Roleplay Argentino de alta calidad. \n> - En caso de tener dudas no dudes en contactarte con uno de nuestros moderadores en <#1491204304185458710>, recuerda ser paciente y respetuoso. \n\n### <:estrella:1516817085655945216>  ¡Gracias a **USTED** ya somos un total de {numero_de_miembros} miembros!"
+            }
+          ],
+          "accessory": {
+            "type": 11,
+            "media": {
+              "url": "{link_avatar_usuario}"
+            }
+          }
+        },
+        {
+          "type": 14
+        },
+        {
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://media.discordapp.net/attachments/1437532141947715684/1516146711872143381/image_39.png?ex=6a32e6a8&is=6a319528&hm=cc04ead9638cd255ea1a52496a2df3d46f957f46dd02f722bada7e38e9d691e4&=&format=webp&quality=lossless&width=1860&height=104"
+              }
+            }
+          ]
+        }
+      ],
+      "accent_color": 9227758
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+discord.py>=2.7.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+aiohttp>=3.9.0
+aiosqlite>=0.20.0
+curl_cffi>=0.7.0
+uvloop>=0.22.1
+pip
